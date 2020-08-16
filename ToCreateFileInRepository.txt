@@ -1,0 +1,3 @@
+hi 
+this is new file created in new folder using commands not mannually
+this is how we can add test in file through comands
